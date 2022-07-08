@@ -1,3 +1,12 @@
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
+
+두 개의 브랜치 생성, netlify를 통해 버전 관리된 제품을 배포할 수 있도록 세팅
+
+* [master 브랜치](https://github.com/iamoki/starbusks-clone/tree/master)
+* [signin 브랜치](https://github.com/iamoki/starbusks-clone/tree/signin)
+
+[완성페이지바로가기](https://sunny-trifle-6ce7f9.netlify.app/)🏃‍♂️🏃‍♂️🏃‍♂️
+
 # Starbucks 랜딩페이지 클론코딩 라이브러리 정리 🛠
 
 ## 🪛 **GSAP & ScrollToPlugin**
