@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
 
 두 개의 브랜치 생성, netlify를 통해 버전 관리된 제품을 배포할 수 있도록 세팅
 
